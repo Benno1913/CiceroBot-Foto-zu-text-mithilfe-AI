@@ -1,0 +1,3 @@
+
+Lege hier dein Vokabelbild ab, zum Beispiel `input/vokabeln.jpg`.
+Die Datei wird von GitHub Actions gelesen, wenn du den Workflow manuell startest.
